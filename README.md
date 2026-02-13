@@ -22,7 +22,7 @@ Including many collaborations with the National Institutes of Health, Johns Hopk
 6. J. Zhang, F. Alisafaei, M. Nikolić, X.A. Nou, H. Kim, V.B. Shenoy, G. Scarcelli, Nuclear Mechanics within Intact Cells Is Regulated by Cytoskeletal Network and Internal Nanostructures, Small (2020) 1907688.
 7. E.O. Wisniewski, P. Mistriotis, K. Bera, R.A. Law, J. Zhang, M. Nikolić, M. Weiger, M. Parlani, S. Tuntithavornwat, A. Afthinos, R. Zhao, D. Wirtz, P. Kalab, G. Scarcelli, P. Friedl, K. Konstantopoulos, Dorsoventral polarity directs cell responses to migration track geometries, Science Advances, (2020).
 
-and several subsequent publications of the Scarcelli group at UMD (https://umdoptics.com/)
+and several subsequent publications of the Scarcelli group at UMD (https://umdoptics.com/), as well as several other Brillouin imaging groups. 
 
 For more detailed description see the dissertation appendix. 
 
