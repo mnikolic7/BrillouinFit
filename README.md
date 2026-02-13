@@ -2,12 +2,14 @@
 
 ---
 
+For detailed instructions see:
+
 Nikolic, Milos. High Resolution Mapping of Intracellular Mechanical Properties during Key Stages of Cancer Progression, University of Maryland, College Park, United States -- Maryland, 2022. ProQuest, 
 https://drum.lib.umd.edu/items/d8c65cb7-4fa2-4fed-98da-49236d5828ce.
 
 ---
 
-and the associated publications:
+The associated publications use this package:
 
 1. M. Nikolić, Scarcelli G., and Tanner K. " Multimodal microscale mechanical mapping of single cells as a function of environment geometry" Biophysical Journal (2022).
 2. Nikolić M., and Scarcelli G. "Long-term Brillouin imaging of live cells with reduced absorption-mediated damage at 660 nm wavelength." Biomedical Optics Express (2019).
@@ -22,6 +24,6 @@ Including many collaborations with the National Institutes of Health, Johns Hopk
 
 and several subsequent publications of the Scarcelli group at UMD (https://umdoptics.com/)
 
-For more details, see the code and the dissertation appendix. 
+For more detailed description see the dissertation appendix. 
 
 Milos Nikolic
