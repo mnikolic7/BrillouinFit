@@ -1,4 +1,4 @@
-# MATLAB analysis code used in the PhD dissertation
+# MATLAB package for processing Brillouin microscopy data
 
 ---
 
